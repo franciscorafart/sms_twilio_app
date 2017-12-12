@@ -15,3 +15,14 @@ This app eventually will be able to handle sub-groups of people in the database,
 ## Lessons Learned:
 
 With this APP I learnt how to build an API in Express to safely comunicate the client side device with a database and third party services, and how to use Twilio's SMS API.
+
+How to use:
+1. Dowload Files
+2. Get a Twilio Account
+3. Go into the server.js file and enter your accounts Id, token and your Mongo database url.
+4. In the terminal go to file directory
+5. run $npm install
+6. run $npm run dev
+7. Go to local host 3000
+8. Send Mass sms messages
+9. Follow me on github!
